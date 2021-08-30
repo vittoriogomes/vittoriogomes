@@ -13,8 +13,8 @@
 
 <table border="0">
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=vittoriogomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" /></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittoriogomes&layout=compact&langs_count=7&theme=dracula" /></td>
+    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=vittoriogomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" /></td>
+    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittoriogomes&layout=compact&langs_count=7&theme=dracula" /></td>
   </tr>
 </table>
 

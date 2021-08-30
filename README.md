@@ -1,14 +1,13 @@
 ## Olá, prazer! Eu sou o Vitório
 
 <div align="center">
-  <a href="https://github.com/vittoriogomes" style="display: inline_block;">
-    <img height="180em"
+  <a href="https://github.com/vittoriogomes">
+    <img 
          src="https://github-readme-stats.vercel.app/api?username=vittoriogomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
      />
-    <img height="180em"
+    <img 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittoriogomes&layout=compact&langs_count=7&theme=dracula"
      />
-  </a>
 </div>
 
 <!-- <table>

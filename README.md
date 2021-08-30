@@ -1,9 +1,9 @@
 ## Olá, prazer! Eu sou o Vitório
 
-<div style="display: inline-block">
+<div>
   <a href="https://github.com/rafaballerini">
-  <img height="180em" width="60%" src="https://github-readme-stats.vercel.app/api?username=vittoriogomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittoriogomes&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vittoriogomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittoriogomes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block">

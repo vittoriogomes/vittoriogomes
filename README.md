@@ -8,7 +8,7 @@
      />
     <img height="180em"
          style="width: 100%;"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittoriogomes&layout=compact&langs_count=7&theme=dracula"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"
      />
   </div>
 </div>

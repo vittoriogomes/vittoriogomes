@@ -1,5 +1,3 @@
-## Olá, prazer! Eu sou o Vitório
-
 <div align="center">
   <a href="https://github.com/vittoriogomes">
     <img 
